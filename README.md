@@ -17,6 +17,7 @@ ___
 * Preprocess: Folder containing 2 files
 	* encode faces.py: Script converts images into 128-D vectors and stores them into pickle files
 	* train model.py: Script trains multiple models on 128-D vectors and selects best model and stores the model into a pickle file
+* Results: Contains resulting images 
 * main.py: Uses the trained model on a piCamera module and classifies individuals if applicable 
 * main_images.py: Uses the trained model on test images stored in dataset and classifies them  
 * **NOTE:** the file paths for imported image datasets and exported pickle files must be changed appropriately
