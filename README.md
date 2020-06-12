@@ -20,7 +20,7 @@ ___
 * Results: Contains resulting images 
 * main.py: Uses the trained model on a piCamera module and classifies individuals if applicable 
 * main_images.py: Uses the trained model on test images stored in dataset and classifies them  
-* **NOTE:** the file paths for imported image datasets and exported pickle files must be changed appropriately
+* **NOTE:** the file paths for imported image datasets and exported pickle files must be changed appropriatelyy
 
 ## Results
 ### main_images.py
