@@ -23,7 +23,6 @@ ___
 * **NOTE:** the file paths for imported image datasets and exported pickle files must be changed appropriately
 
 ## Results
-![MJ](Results/0.jpg)
+![MJ](Results/217.jpg)
 ![ELON](Results/11.jpg)
 ![LEBRON](Results/18.jpg)
-![MJ](Results/217.jpg)
