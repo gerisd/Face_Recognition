@@ -23,4 +23,6 @@ ___
 
 ## Results
 ### main_images.py
-![main_images results](mj.jpg)  
+![MJ](Results/0.jpg)
+![ELON](Results/11.jpg)
+![LEBRON](Results/18.jpg)
